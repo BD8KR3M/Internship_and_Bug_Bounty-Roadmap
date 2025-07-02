@@ -93,7 +93,7 @@ This repository is designed to help beginners and aspiring cybersecurity profess
 
 ## 💻 OS & VPN
 
-- **OS**: Use a lightweight Linux distro like Kali Lite or Parrot OS for bug bounty hunting  
+- **OS**: Use a lightweight Linux distro like Kali Lite or Parrot OS for bug bounty hunting (Recommend Bounty Os)
 - **VPN**: [ProtonVPN](https://protonvpn.com/) (secure & free)
 
 ---
